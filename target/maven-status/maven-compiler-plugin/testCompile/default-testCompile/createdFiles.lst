@@ -1,0 +1,14 @@
+com\tutorial\dynamocrud\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\tutorial\dynamocrud\TestUtils$DateTimeDeserializer.class
+com\tutorial\dynamocrud\TestUtils$DynamodbEventMixin.class
+com\tutorial\dynamocrud\TestUtils$1.class
+com\tutorial\dynamocrud\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\tutorial\dynamocrud\TestContext.class
+com\tutorial\dynamocrud\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\tutorial\dynamocrud\TestContext$1.class
+com\tutorial\dynamocrud\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\tutorial\dynamocrud\TestContext$TestLogger.class
+com\tutorial\dynamocrud\TestUtils$TestJacksonMapperModule.class
+com\tutorial\dynamocrud\TestUtils$DateTimeSerializer.class
+com\tutorial\dynamocrud\TestUtils.class
+com\tutorial\dynamocrud\LambdaFunctionHandlerTest.class
